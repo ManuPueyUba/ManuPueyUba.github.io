@@ -1,56 +1,56 @@
-<p class="title" data-lang="es" style="display:none;">Estudiante de Ingeniería en Informática</p>
-<span data-lang="es" style="display:none;">Mostrar Contacto</span>
-<p class="contact-title" data-lang="es" style="display:none;">Correo Electrónico</p>
-<p class="contact-title" data-lang="es" style="display:none;">Teléfono</p>
-<p class="contact-title" data-lang="es" style="display:none;">Fecha de nacimiento</p>
-<p class="contact-title" data-lang="es" style="display:none;">Ubicación</p>
-<span data-lang="es" style="display:none;">Sobre mí</span>
-<span data-lang="es" style="display:none;">Currículum</span>
-<span data-lang="es" style="display:none;">Portafolio</span>
-<span data-lang="es" style="display:none;">Contacto</span>
-<h2 class="h2 article-title" data-lang="es" style="display:none;">Sobre mí</h2>
-<p data-lang="es" style="display:none;">
+<p class="title" lang="es" style="display:none;">Estudiante de Ingeniería en Informática</p>
+<span lang="es" style="display:none;">Mostrar Contacto</span>
+<p class="contact-title" lang="es" style="display:none;">Correo Electrónico</p>
+<p class="contact-title" lang="es" style="display:none;">Teléfono</p>
+<p class="contact-title" lang="es" style="display:none;">Fecha de nacimiento</p>
+<p class="contact-title" lang="es" style="display:none;">Ubicación</p>
+<span lang="es" style="display:none;">Sobre mí</span>
+<span lang="es" style="display:none;">Currículum</span>
+<span lang="es" style="display:none;">Portafolio</span>
+<span lang="es" style="display:none;">Contacto</span>
+<h2 class="h2 article-title" lang="es" style="display:none;">Sobre mí</h2>
+<p lang="es" style="display:none;">
       Soy atento y aprendo rápidamente, con una gran pasión por la tecnología y la programación.
       Como estudiante de Ingeniería en Informática, busco constantemente profundizar mi comprensión del campo.
       Disfruto enfrentar nuevos desafíos y aplicar mis habilidades de manera innovadora.
       Mi curiosidad va más allá de la tecnología, abarcando temas como matemáticas y deportes, 
       todo lo cual enriquece mi perspectiva y alimenta mi deseo de crecer tanto personal como profesionalmente.
     </p>
-<h3 class="h3 service-title" data-lang="es" style="display:none;">Lo que estoy haciendo</h3>
-<h4 class="h4 service-item-title" data-lang="es" style="display:none;">Desarrollador de Scripts</h4>
-<p class="service-item-text" data-lang="es" style="display:none;">
+<h3 class="h3 service-title" lang="es" style="display:none;">Lo que estoy haciendo</h3>
+<h4 class="h4 service-item-title" lang="es" style="display:none;">Desarrollador de Scripts</h4>
+<p class="service-item-text" lang="es" style="display:none;">
             Crear algoritmos eficientes para resolver y automatizar tareas.
           </p>
-<h4 class="h4 service-item-title" data-lang="es" style="display:none;">POO</h4>
-<p class="service-item-text" data-lang="es" style="display:none;">
+<h4 class="h4 service-item-title" lang="es" style="display:none;">POO</h4>
+<p class="service-item-text" lang="es" style="display:none;">
             Sistemas de alta calidad con Programación Orientada a Objetos.
           </p>
-<h4 class="h4 service-item-title" data-lang="es" style="display:none;">Sistemas Operativos</h4>
-<p class="service-item-text" data-lang="es" style="display:none;">
+<h4 class="h4 service-item-title" lang="es" style="display:none;">Sistemas Operativos</h4>
+<p class="service-item-text" lang="es" style="display:none;">
             Aprendiendo sobre Sistemas Operativos, Llamadas al Sistema, Kernel, etc.
           </p>
-<h4 class="h4 service-item-title" data-lang="es" style="display:none;">Requisitos, Diseño y Gestión de Proyectos</h4>
-<p class="service-item-text" data-lang="es" style="display:none;">
+<h4 class="h4 service-item-title" lang="es" style="display:none;">Requisitos, Diseño y Gestión de Proyectos</h4>
+<p class="service-item-text" lang="es" style="display:none;">
             Estoy aprendiendo sobre Ingeniería de Software: Requisitos, Diseño y Gestión de Proyectos.
           </p>
-<h3 class="h3 testimonials-title" data-lang="es" style="display:none;">Testimonios</h3>
-<h3 class="h3 languages-title" data-lang="es" style="display:none;">Lenguajes</h3>
-<h2 class="h2 article-title" data-lang="es" style="display:none;">Curriculum</h2>
-<h3 class="h3" data-lang="es" style="display:none;">Educacion</h3>
-<span data-lang="es" style="display:none;">2022 — 2024 (Present)</span>
-<p class="timeline-text" data-lang="es" style="display:none;">
+<h3 class="h3 testimonials-title" lang="es" style="display:none;">Testimonios</h3>
+<h3 class="h3 languages-title" lang="es" style="display:none;">Lenguajes</h3>
+<h2 class="h2 article-title" lang="es" style="display:none;">Curriculum</h2>
+<h3 class="h3" lang="es" style="display:none;">Educacion</h3>
+<span lang="es" style="display:none;">2022 — 2024 (Present)</span>
+<p class="timeline-text" lang="es" style="display:none;">
                 Ingeniería Informática 3er curso (en curso)
               </p>
-<p class="timeline-text" data-lang="es" style="display:none;">
+<p class="timeline-text" lang="es" style="display:none;">
                 Me recibi con especialisacion en Ciencias Naturales.
                 Exámenes internacionales:
                 IGCSE MATEMÁTICAS
                 IGCSE INGLÉS
               </p>
-<h3 class="h3" data-lang="es" style="display:none;">Experiencia</h3>
-<h4 class="h4 timeline-item-title" data-lang="es" style="display:none;">Desarrollador de scripts Python</h4>
-<span data-lang="es" style="display:none;">2023 — Presente</span>
-<p class="timeline-text" data-lang="es" style="display:none;">
+<h3 class="h3" lang="es" style="display:none;">Experiencia</h3>
+<h4 class="h4 timeline-item-title" lang="es" style="display:none;">Desarrollador de scripts Python</h4>
+<span lang="es" style="display:none;">2023 — Presente</span>
+<p class="timeline-text" lang="es" style="display:none;">
                 Como especialista en scripts de Python, automatizo tareas de preproducción,
                 agilizo los flujos de trabajo de los equipos de producto y optimizo los
                 oficina mediante scripts. Actualizo y mantengo scripts de Python,
@@ -58,9 +58,9 @@
                 GrassHopper, VB y JS. Comprometido con el aprendizaje continuo, me esfuerzo por
                 mejorar la eficiencia en la ejecución de tareas.
               </p>
-<h4 class="h4 timeline-item-title" data-lang="es" style="display:none;">Pasantia </h4>
-<span data-lang="es" data-lang="es" style="display:none;">Ocean Born Foundation, Madrid, España</span>
-<p class="timeline-text" data-lang="es" style="display:none;">
+<h4 class="h4 timeline-item-title" lang="es" style="display:none;">Pasantia </h4>
+<span lang="es" lang="es" style="display:none;">Ocean Born Foundation, Madrid, España</span>
+<p class="timeline-text" lang="es" style="display:none;">
                 Durante mis prácticas en la Ocean Born Foundation, tuve la oportunidad de
                 de desarrollar habilidades en programación, diseño web y optimización de páginas.
                 optimización de páginas. Mejorando el posicionamiento de la web en un 20%. Destaqué
@@ -68,8 +68,8 @@
                 Además, demostré ser un colaborador eficaz en equipos interdepartamentales.
                 en equipos interdepartamentales.
               </p>
-<h4 class="h4 timeline-item-title" data-lang="es" style="display:none;">Diseñador Web</h4>
-<p class="timeline-text" data-lang="es" style="display:none;">
+<h4 class="h4 timeline-item-title" lang="es" style="display:none;">Diseñador Web</h4>
+<p class="timeline-text" lang="es" style="display:none;">
                 Estudié de forma independiente para convertirme en desarrollador web, dedicando tiempo a aprender 
                 las últimas tecnologías y herramientas del sector. A través de cursos en línea 
                 tutoriales y proyectos personales, adquirí los conocimientos necesarios para crear 
@@ -77,31 +77,31 @@
                 lenguajes de programación como HTML, CSS y JavaScript, así como el dominio de 
                 y bibliotecas populares.
               </p>
-<h3 class="h3 skills-title" data-lang="es" style="display:none;">Mis habilidades</h3>
-<h5 class="h5" data-lang="es" style="display:none;">Diseño Web</h5>
-<h5 class="h5" data-lang="es" style="display:none;">POO</h5>
-<h5 class="h5" data-lang="es" style="display:none;">Programacion</h5>
-<h5 class="h5" data-lang="es" style="display:none;">Estructura de datos y algoritmos</h5>
-<h2 class="h2 article-title" data-lang="es" style="display:none;">Portafolio</h2>
-<button class="active" data-lang="es" style="display:none;" data-filter-btn>Todos</button>
-<button data-filter-btn data-lang="es" style="display:none;">Juegos</button>
-<button data-filter-btn data-lang="es" style="display:none;">Aplicaciones</button>
-<button data-filter-btn data-lang="es" style="display:none;">Proyectos</button>
-<div class="select-value" data-selecct-value data-lang="es" style="display:none;">Seleccionar categoria</div>
-<button data-select-item data-lang="es" style="display:none;">Todos</button>
-<button data-select-item data-lang="es" style="display:none;">diseño Web</button>
-<button data-select-item data-lang="es" style="display:none;">Aplicaciones</button>
-<button data-select-item data-lang="es" style="display:none;">Proyectos</button>
-<h3 class="project-title" data-lang="es" style="display:none;">Perfil de GitHub</h3>
-<p class="project-category" data-lang="es" style="display:none;">Proyectos</p>
-<h3 class="project-title" data-lang="es" style="display:none;">ParticionDeCuardados</h3>
-<p class="project-category" data-lang="es" style="display:none;">Proyectos</p>
-<h3 class="project-title" data-lang="es" style="display:none;">AlgoRastreador</h3>
-<p class="project-category" data-lang="es" style="display:none;">Proyectos</p>
-<p class="project-category" data-lang="es" style="display:none;">Juegos</p>
-<p class="project-category" data-lang="es" style="display:none;">Aplicaciones</p>
-<p class="project-category" data-lang="es" style="display:none;" >Juegos</p>
-<p class="project-category" data-lang="es" style="display:none;">diseño Web</p>
-<h2 class="h2 article-title" data-lang="es" style="display:none;">Contacto</h2>
-<h3 class="h3 form-title" data-lang="es" style="display:none;">Formulario de contacto</h3>
-<span data-lang="es" style="display:none;">Enviar mensaje</span>
+<h3 class="h3 skills-title" lang="es" style="display:none;">Mis habilidades</h3>
+<h5 class="h5" lang="es" style="display:none;">Diseño Web</h5>
+<h5 class="h5" lang="es" style="display:none;">POO</h5>
+<h5 class="h5" lang="es" style="display:none;">Programacion</h5>
+<h5 class="h5" lang="es" style="display:none;">Estructura de datos y algoritmos</h5>
+<h2 class="h2 article-title" lang="es" style="display:none;">Portafolio</h2>
+<button class="active" lang="es" style="display:none;" data-filter-btn>Todos</button>
+<button data-filter-btn lang="es" style="display:none;">Juegos</button>
+<button data-filter-btn lang="es" style="display:none;">Aplicaciones</button>
+<button data-filter-btn lang="es" style="display:none;">Proyectos</button>
+<div class="select-value" data-selecct-value lang="es" style="display:none;">Seleccionar categoria</div>
+<button data-select-item lang="es" style="display:none;">Todos</button>
+<button data-select-item lang="es" style="display:none;">diseño Web</button>
+<button data-select-item lang="es" style="display:none;">Aplicaciones</button>
+<button data-select-item lang="es" style="display:none;">Proyectos</button>
+<h3 class="project-title" lang="es" style="display:none;">Perfil de GitHub</h3>
+<p class="project-category" lang="es" style="display:none;">Proyectos</p>
+<h3 class="project-title" lang="es" style="display:none;">ParticionDeCuardados</h3>
+<p class="project-category" lang="es" style="display:none;">Proyectos</p>
+<h3 class="project-title" lang="es" style="display:none;">AlgoRastreador</h3>
+<p class="project-category" lang="es" style="display:none;">Proyectos</p>
+<p class="project-category" lang="es" style="display:none;">Juegos</p>
+<p class="project-category" lang="es" style="display:none;">Aplicaciones</p>
+<p class="project-category" lang="es" style="display:none;" >Juegos</p>
+<p class="project-category" lang="es" style="display:none;">diseño Web</p>
+<h2 class="h2 article-title" lang="es" style="display:none;">Contacto</h2>
+<h3 class="h3 form-title" lang="es" style="display:none;">Formulario de contacto</h3>
+<span lang="es" style="display:none;">Enviar mensaje</span>

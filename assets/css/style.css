@@ -300,6 +300,7 @@ article.active {
   #MAIN
 \*-----------------------------------*/
 
+
 main {
   margin: 15px 12px;
   margin-bottom: 75px;
@@ -757,7 +758,7 @@ main {
   box-shadow: var(--shadow-2);
 }
 
-.modal-img-wrapper > img { display: none; }
+.modal-img-wrapper> img { display: none; }
 
 .modal-title { margin-bottom: 4px; }
 
@@ -1005,7 +1006,7 @@ main {
   100% { transform: scale(1); }
 }
 
-.project-item > a { width: 100%; }
+.project-item> a { width: 100%; }
 
 .project-img {
   position: relative;
@@ -1028,7 +1029,7 @@ main {
   transition: var(--transition-1);
 }
 
-.project-item > a:hover .project-img::before { background: hsla(0, 0%, 0%, 0.5); }
+.project-item> a:hover .project-img::before { background: hsla(0, 0%, 0%, 0.5); }
 
 .project-item-icon-box {
   --scale: 0.8;
@@ -1047,7 +1048,7 @@ main {
   transition: var(--transition-1);
 }
 
-.project-item > a:hover .project-item-icon-box {
+.project-item> a:hover .project-item-icon-box {
   --scale: 1;
   opacity: 1;
 }
@@ -1061,7 +1062,7 @@ main {
   transition: var(--transition-1);
 }
 
-.project-item > a:hover img { transform: scale(1.1); }
+.project-item> a:hover img { transform: scale(1.1); }
 
 .project-title,
 .project-category { margin-left: 10px; }
@@ -1096,7 +1097,7 @@ main {
   gap: 20px;
 }
 
-.blog-post-item > a {
+.blog-post-item> a {
   position: relative;
   background: var(--border-gradient-onyx);
   height: 100%;
@@ -1105,7 +1106,7 @@ main {
   z-index: 1;
 }
 
-.blog-post-item > a::before {
+.blog-post-item> a::before {
   content: "";
   position: absolute;
   inset: 1px;
@@ -1128,7 +1129,7 @@ main {
   transition: var(--transition-1);
 }
 
-.blog-post-item > a:hover .blog-banner-box img { transform: scale(1.1); }
+.blog-post-item> a:hover .blog-banner-box img { transform: scale(1.1); }
 
 .blog-content { padding: 15px; }
 
@@ -1159,7 +1160,7 @@ main {
   transition: var(--transition-1);
 }
 
-.blog-post-item > a:hover .blog-item-title { color: var(--orange-yellow-crayola); }
+.blog-post-item> a:hover .blog-item-title { color: var(--orange-yellow-crayola); }
 
 .blog-text {
   color: var(--light-gray);
@@ -1519,7 +1520,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .modal-avatar-box img { width: 65px; }
 
-  .modal-img-wrapper > img {
+  .modal-img-wrapper> img {
     display: block;
     flex-grow: 1;
     width: 35px;

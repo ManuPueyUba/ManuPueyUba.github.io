@@ -4,8 +4,8 @@ def obtenerEtiquetas():
     try:
         with open("index.html", "r", encoding="utf-8") as html:
             with open("index.txt", "w", encoding="utf-8") as txt:
-                # Expresión regular para encontrar etiquetas con el atributo data-lang="es"
-                regex = re.compile(r'<[^>]*data-lang="es"[^>]*>.*?</[^>]*>', re.DOTALL)
+                # Expresión regular para encontrar etiquetas con el atributo lang="es"
+                regex = re.compile(r'<[^>]*lang="es"[^>]*>.*?</[^>]*>', re.DOTALL)
                 
                 # Leer todo el contenido del archivo HTML
                 content = html.read()
