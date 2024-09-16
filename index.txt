@@ -1,240 +1,107 @@
-vCard - Personal Portfolio
-
-# sidebar
-
-alt = Richard hanrick
-Richard hanrick
-Web developer
-
-Show Contacts
-
-Email
-richard@example.com
-
-Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
-
-Location
-Sacramento, California, USA
-
-# navbar
-
-About
-Resume
-Portfolio
-Blog
-Contact
-
-# about
-
-About me
-
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
-
-## service
-
-What i'm doing
-
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
-
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
-
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
-
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
-
-
-## testimonials
-
-Testimonials
-
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-
-## clients
-
-Clients
-
-alt = client logo
-
-
-
-# resume
-
-Resume
-
-Education
-
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
-
-Experience
-
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
-
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-My skills
-
-Web design
-80%
-Graphic design
-70%
-Branding
-90%
-WordPress
-50%
-
-
-
-# portfolio
-
-Portfolio
-
-All
-Web design
-Applications
-Web development
-
-Select category
-All
-Web design
-Applications
-Web development
-
-alt = finance
-Finance
-Web development
-
-alt = orizon
-Orizon
-Web development
-
-alt = fundo
-Fundo
-Web design
-
-alt = brawlhalla
-Brawlhalla
-Applications
-
-alt = dsm.
-DSM.
-Web design
-
-alt = metaspark
-MetaSpark
-Web design
-
-alt = summary
-Summary
-Web development
-
-alt = task manager
-Task Manager
-Applications
-
-alt = arrival
-Arrival
-Web development
-
-
-
-# blog
-
-Blog
-
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
-
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
-
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
-
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
-
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
-
-
-
-# contact
-
-Contact
-
-Contact Form
-
-Full name
-Email address
-Your Message
-
-Send Message
+<p class="title" lang="es" style="display:none;">Estudiante de Ingeniería en Informática</p>
+<span lang="es" style="display:none;">Mostrar Contacto</span>
+<p class="contact-title" lang="es" style="display:none;">Correo Electrónico</p>
+<p class="contact-title" lang="es" style="display:none;">Teléfono</p>
+<p class="contact-title" lang="es" style="display:none;">Fecha de nacimiento</p>
+<p class="contact-title" lang="es" style="display:none;">Ubicación</p>
+<span lang="es" style="display:none;">Sobre mí</span>
+<span lang="es" style="display:none;">Currículum</span>
+<span lang="es" style="display:none;">Portafolio</span>
+<span lang="es" style="display:none;">Contacto</span>
+<h2 class="h2 article-title" lang="es" style="display:none;">Sobre mí</h2>
+<p lang="es" style="display:none;">
+      Soy atento y aprendo rápidamente, con una gran pasión por la tecnología y la programación.
+      Como estudiante de Ingeniería en Informática, busco constantemente profundizar mi comprensión del campo.
+      Disfruto enfrentar nuevos desafíos y aplicar mis habilidades de manera innovadora.
+      Mi curiosidad va más allá de la tecnología, abarcando temas como matemáticas y deportes, 
+      todo lo cual enriquece mi perspectiva y alimenta mi deseo de crecer tanto personal como profesionalmente.
+    </p>
+<h3 class="h3 service-title" lang="es" style="display:none;">Lo que estoy haciendo</h3>
+<h4 class="h4 service-item-title" lang="es" style="display:none;">Desarrollador de Scripts</h4>
+<p class="service-item-text" lang="es" style="display:none;">
+            Crear algoritmos eficientes para resolver y automatizar tareas.
+          </p>
+<h4 class="h4 service-item-title" lang="es" style="display:none;">POO</h4>
+<p class="service-item-text" lang="es" style="display:none;">
+            Sistemas de alta calidad con Programación Orientada a Objetos.
+          </p>
+<h4 class="h4 service-item-title" lang="es" style="display:none;">Sistemas Operativos</h4>
+<p class="service-item-text" lang="es" style="display:none;">
+            Aprendiendo sobre Sistemas Operativos, Llamadas al Sistema, Kernel, etc.
+          </p>
+<h4 class="h4 service-item-title" lang="es" style="display:none;">Requisitos, Diseño y Gestión de Proyectos</h4>
+<p class="service-item-text" lang="es" style="display:none;">
+            Estoy aprendiendo sobre Ingeniería de Software: Requisitos, Diseño y Gestión de Proyectos.
+          </p>
+<h3 class="h3 testimonials-title" lang="es" style="display:none;">Testimonios</h3>
+<h3 class="h3 languages-title" lang="es" style="display:none;">Lenguajes</h3>
+<h2 class="h2 article-title" lang="es" style="display:none;">Curriculum</h2>
+<h3 class="h3" lang="es" style="display:none;">Educacion</h3>
+<span lang="es" style="display:none;">2022 — 2024 (Present)</span>
+<p class="timeline-text" lang="es" style="display:none;">
+                Ingeniería Informática 3er curso (en curso)
+              </p>
+<p class="timeline-text" lang="es" style="display:none;">
+                Me recibi con especialisacion en Ciencias Naturales.
+                Exámenes internacionales:
+                IGCSE MATEMÁTICAS
+                IGCSE INGLÉS
+              </p>
+<h3 class="h3" lang="es" style="display:none;">Experiencia</h3>
+<h4 class="h4 timeline-item-title" lang="es" style="display:none;">Desarrollador de scripts Python</h4>
+<span lang="es" style="display:none;">2023 — Presente</span>
+<p class="timeline-text" lang="es" style="display:none;">
+                Como especialista en scripts de Python, automatizo tareas de preproducción,
+                agilizo los flujos de trabajo de los equipos de producto y optimizo los
+                oficina mediante scripts. Actualizo y mantengo scripts de Python,
+                gestiono la documentación y utilizo varios lenguajes de scripting como
+                GrassHopper, VB y JS. Comprometido con el aprendizaje continuo, me esfuerzo por
+                mejorar la eficiencia en la ejecución de tareas.
+              </p>
+<h4 class="h4 timeline-item-title" lang="es" style="display:none;">Pasantia </h4>
+<span lang="es" lang="es" style="display:none;">Ocean Born Foundation, Madrid, España</span>
+<p class="timeline-text" lang="es" style="display:none;">
+                Durante mis prácticas en la Ocean Born Foundation, tuve la oportunidad de
+                de desarrollar habilidades en programación, diseño web y optimización de páginas.
+                optimización de páginas. Mejorando el posicionamiento de la web en un 20%. Destaqué
+                por mi capacidad para adaptarme rápidamente a nuevas herramientas y tecnologías.
+                Además, demostré ser un colaborador eficaz en equipos interdepartamentales.
+                en equipos interdepartamentales.
+              </p>
+<h4 class="h4 timeline-item-title" lang="es" style="display:none;">Diseñador Web</h4>
+<p class="timeline-text" lang="es" style="display:none;">
+                Estudié de forma independiente para convertirme en desarrollador web, dedicando tiempo a aprender 
+                las últimas tecnologías y herramientas del sector. A través de cursos en línea 
+                tutoriales y proyectos personales, adquirí los conocimientos necesarios para crear 
+                y mantener sitios web eficaces y atractivos. Me centré en aprender 
+                lenguajes de programación como HTML, CSS y JavaScript, así como el dominio de 
+                y bibliotecas populares.
+              </p>
+<h3 class="h3 skills-title" lang="es" style="display:none;">Mis habilidades</h3>
+<h5 class="h5" lang="es" style="display:none;">Diseño Web</h5>
+<h5 class="h5" lang="es" style="display:none;">POO</h5>
+<h5 class="h5" lang="es" style="display:none;">Programacion</h5>
+<h5 class="h5" lang="es" style="display:none;">Estructura de datos y algoritmos</h5>
+<h2 class="h2 article-title" lang="es" style="display:none;">Portafolio</h2>
+<button class="active" lang="es" style="display:none;" data-filter-btn>Todos</button>
+<button data-filter-btn lang="es" style="display:none;">Juegos</button>
+<button data-filter-btn lang="es" style="display:none;">Aplicaciones</button>
+<button data-filter-btn lang="es" style="display:none;">Proyectos</button>
+<div class="select-value" data-selecct-value lang="es" style="display:none;">Seleccionar categoria</div>
+<button data-select-item lang="es" style="display:none;">Todos</button>
+<button data-select-item lang="es" style="display:none;">diseño Web</button>
+<button data-select-item lang="es" style="display:none;">Aplicaciones</button>
+<button data-select-item lang="es" style="display:none;">Proyectos</button>
+<h3 class="project-title" lang="es" style="display:none;">Perfil de GitHub</h3>
+<p class="project-category" lang="es" style="display:none;">Proyectos</p>
+<h3 class="project-title" lang="es" style="display:none;">ParticionDeCuardados</h3>
+<p class="project-category" lang="es" style="display:none;">Proyectos</p>
+<h3 class="project-title" lang="es" style="display:none;">AlgoRastreador</h3>
+<p class="project-category" lang="es" style="display:none;">Proyectos</p>
+<p class="project-category" lang="es" style="display:none;">Juegos</p>
+<p class="project-category" lang="es" style="display:none;">Aplicaciones</p>
+<p class="project-category" lang="es" style="display:none;" >Juegos</p>
+<p class="project-category" lang="es" style="display:none;">diseño Web</p>
+<h2 class="h2 article-title" lang="es" style="display:none;">Contacto</h2>
+<h3 class="h3 form-title" lang="es" style="display:none;">Formulario de contacto</h3>
+<span lang="es" style="display:none;">Enviar mensaje</span>
