@@ -1307,7 +1307,18 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 }
 
+/* Estilos para pantallas pequeñas (dispositivos móviles) */
+@media (max-width: 1024px) {
+  .dropdown-content {
+    bottom: 100%; /* Se despliega hacia arriba */
+    top: auto; /* Anulamos el top que se usa en pantallas más grandes */
+  }
 
+  /* Opcionalmente, puedes cambiar la posición para mejorar la visualización */
+  .dropdown {
+    position: static; /* Aseguramos que no haya conflicto de posicionamiento */
+  }
+}
 
 
 
