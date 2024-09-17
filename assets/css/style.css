@@ -467,11 +467,14 @@ main {
 }
 
 .dropbtn {
+  display: flex;
+  align-items: center;
   background-color: hsla(240, 1%, 17%, 0.75);
   border: none;
   padding: 10px;
   cursor: pointer;
-  border-radius: 8px; /* Esquinas redondeadas para el botón */
+  border-radius: 5px;
+  color: var(--light-gray);
 }
 
 .dropbtn img {
@@ -489,7 +492,7 @@ main {
 }
 
 .dropdown-content a {
-  color: black;
+  color: var(--light-gray);
   padding: 12px 16px;
   text-decoration: none;
   display: block;
@@ -498,6 +501,7 @@ main {
 
 .dropdown-content a:hover {
   background-color: var(--light-gray-70);
+  color: var(--smoky-black);
 }
 
 /* Mostrar el menú desplegable al pasar el mouse por encima del botón */
@@ -507,6 +511,7 @@ main {
 
 .dropdown:hover .dropbtn {
   background-color: var(--light-gray-70);
+  color: var(--smoky-black);
 }
 
 .navbar {
