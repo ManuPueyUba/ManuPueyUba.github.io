@@ -642,6 +642,7 @@ main {
   position: absolute;
   top: 0;
   left: 0;
+  height: 80px;
   transform: translate(15px, -25px);
   background: var(--bg-gradient-onyx);
   border-radius: 14px;
